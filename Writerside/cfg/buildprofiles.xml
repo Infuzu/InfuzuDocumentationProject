@@ -4,5 +4,17 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
+    <build-profile instance="adoc">
+        <variables>
+            <algolia-id>3HYGZZSXD2</algolia-id>
+            <algolia-index>docs</algolia-index>
+            <algolia-api-key>47cc189bfc8aebcfb07ed336c07e6447</algolia-api-key>
+            <noindex-content>false</noindex-content>
+        </variables>
+        <footer>
+            <copyright>2025 Infuzu LLC</copyright>
+        </footer>
+        <sitemap priority="0.35" change-frequency="weekly"/>
+    </build-profile>
 
 </buildprofiles>

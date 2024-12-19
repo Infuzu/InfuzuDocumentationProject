@@ -11,13 +11,13 @@ permissions:
 
 env:
   INSTANCE: 'Writerside/gaapd'
-  ARTIFACT: 'webHelpGAAPD2-all.zip'
+  ARTIFACT: 'webHelpADOC2-all.zip'
   DOCKER_VERSION: '242.21870'
-  ALGOLIA_ARTIFACT: 'algolia-indexes-GAAPD.zip'
-  ALGOLIA_APP_NAME: 'Q154LTKUGD'
+  ALGOLIA_ARTIFACT: 'algolia-indexes-ADOC.zip'
+  ALGOLIA_APP_NAME: '3HYGZZSXD2'
   ALGOLIA_INDEX_NAME: 'docs'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY }}'
-  CONFIG_JSON_PRODUCT: 'GAAPD'
+  CONFIG_JSON_PRODUCT: 'ADOC'
   CONFIG_JSON_VERSION: '1.0'
 
 jobs:
