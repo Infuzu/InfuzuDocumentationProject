@@ -11,7 +11,7 @@
     <toc-element topic="API-reference.md">
         <toc-element topic="Pet.md">
         </toc-element>
-        <toc-element toc-title="Store">
+        <toc-element toc-title="Store" accepts-web-file-names="pricing.html">
             <toc-element topic="Returns-pet-inventories-by-status.md"/>
             <toc-element topic="Place-an-order-for-a-pet.md"/>
             <toc-element topic="Find-purchase-order-by-ID.md"/>
@@ -28,8 +28,4 @@
         </toc-element>
     </toc-element>
     <toc-element topic="Changes.md"/>
-
-    <toc-element toc-title="Redirect to Pricing" hidden="true"
-                 accepts-web-file-names="pricing.html"
-                 target-for-accept-web-file-names="https://my.company.com/blog/about-cool-feature"/>
 </instance-profile>
