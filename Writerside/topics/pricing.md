@@ -44,7 +44,7 @@ available LLMs, IMS determines costs as follows:
 | Anthropic - Claude 3.5 Sonnet (2024-10-22) | `$0.8625`                | `$4.3125`                 |
 
 <warning>
-**Note**: These prices are subject to change. Always refer to your Organization’s Pricing Page for the most up-to-date 
+These prices are subject to change. Always refer to your Organization’s Pricing Page for the most up-to-date 
 information.
 </warning>
 
@@ -82,6 +82,6 @@ If your account does not have enough funds, the request will fail with a `402 Pa
 you to add more funds.
 
 <warning>
-**Next Steps**: Make sure you have sufficient credits in your account. If your usage scales or your organization's 
+Make sure you have sufficient credits in your account. If your usage scales or your organization's 
 rates differ, review your billing and top up funds as needed.
 </warning>
