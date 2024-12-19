@@ -30,6 +30,6 @@
     <toc-element topic="Changes.md"/>
 
     <toc-element toc-title="Redirect to Pricing" hidden="true"
-                 accepts-web-file-names="pricing"
+                 accepts-web-file-names="pricing.html"
                  target-for-accept-web-file-names="https://my.company.com/blog/about-cool-feature"/>
 </instance-profile>
