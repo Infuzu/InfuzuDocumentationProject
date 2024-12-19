@@ -11,7 +11,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/gaapd'
+  INSTANCE: 'Writerside/adoc'
   ARTIFACT: 'webHelpADOC2-all.zip'
   DOCKER_VERSION: '242.21870'
   ALGOLIA_ARTIFACT: 'algolia-indexes-ADOC.zip'
