@@ -10,8 +10,14 @@
             <algolia-index>docs</algolia-index>
             <algolia-api-key>47cc189bfc8aebcfb07ed336c07e6447</algolia-api-key>
             <noindex-content>false</noindex-content>
+            <primary-color>deep-ocean</primary-color>
+            <custom-favicons>favicon-16x16.png,favicon-32x32.png,favicon.ico</custom-favicons>
+            <header-logo>512-blue-spinner.png</header-logo>
         </variables>
         <footer>
+            <link href="https://admin.infuzu.com">Admin</link>
+            <link href="https://chat.infuzu.com">Chat</link>
+            <link href="https://support.infuzu.com">Support</link>
             <copyright>2025 Infuzu LLC</copyright>
         </footer>
         <sitemap priority="0.35" change-frequency="weekly"/>
