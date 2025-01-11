@@ -40,6 +40,8 @@ available LLMs, IMS determines costs as follows:
 | OpenAI - o1 (2024-12-17)                   | `$4.3125`                | `$17.25`                  |
 | OpenAI - o1-preview (2024-09-12)           | `$4.3125`                | `$17.25`                  |
 | OpenAI - o1-mini (2024-09-12)              | `$0.8625`                | `$3.45`                   |
+| OpenAI - GPT-4o (2024-11-20)               | `$0.71875`               | `$2.875`                  |
+| OpenAI - GPT-4o (2024-08-06)               | `$0.71875`               | `$2.875`                  |
 | OpenAI - GPT-4o (2024-05-13)               | `$1.4375`                | `$4.3125`                 |
 | Google - Gemini 1.5 Pro 002                | `$1.4375`                | `$2.875`                  |
 | Anthropic - Claude 3.5 Sonnet (2024-10-22) | `$0.8625`                | `$4.3125`                 |

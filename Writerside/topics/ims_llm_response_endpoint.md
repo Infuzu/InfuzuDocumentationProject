@@ -81,6 +81,8 @@ chosen LLM. Optionally, you can request that responses be streamed back to you (
     - `openai.o1-2024-12-17`
     - `openai.o1-preview-2024-09-12`
     - `openai.o1-mini-2024-09-12`
+    - `openai.gpt-4o-2024-11-20`
+    - `openai.gpt-4o-2024-08-06`
     - `openai.gpt-4o-2024-05-13`
 
 To see the exact pricing and details for these LLMs, refer to the Pricing section of this documentation or visit your 
