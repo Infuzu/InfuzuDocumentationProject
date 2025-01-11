@@ -78,6 +78,7 @@ chosen LLM. Optionally, you can request that responses be streamed back to you (
     - `google.gemini-1.5-pro-002`
 
 - **OpenAI LLMs:**
+    - `openai.o1-2024-12-17`
     - `openai.o1-preview-2024-09-12`
     - `openai.o1-mini-2024-09-12`
     - `openai.gpt-4o-2024-05-13`

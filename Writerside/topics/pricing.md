@@ -37,6 +37,7 @@ available LLMs, IMS determines costs as follows:
 
 | LLM                                        | Price per 1M Input Chars | Price per 1M Output Chars |
 |--------------------------------------------|--------------------------|---------------------------|
+| OpenAI - o1 (2024-12-17)                   | `$4.3125`                | `$17.25`                  |
 | OpenAI - o1-preview (2024-09-12)           | `$4.3125`                | `$17.25`                  |
 | OpenAI - o1-mini (2024-09-12)              | `$0.8625`                | `$3.45`                   |
 | OpenAI - GPT-4o (2024-05-13)               | `$1.4375`                | `$4.3125`                 |
