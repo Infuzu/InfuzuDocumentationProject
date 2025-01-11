@@ -45,6 +45,7 @@ available LLMs, IMS determines costs as follows:
 | OpenAI - GPT-4o (2024-05-13)               | `$1.4375`                | `$4.3125`                 |
 | Google - Gemini 1.5 Pro 002                | `$1.4375`                | `$2.875`                  |
 | Anthropic - Claude 3.5 Sonnet (2024-10-22) | `$0.8625`                | `$4.3125`                 |
+| DeepSeek - DeepSeek-V3                     | `$0.07763`               | `$0.31625`                |
 
 <warning>
 These prices are subject to change. Always refer to your Organization’s Pricing Page for the most up-to-date 
