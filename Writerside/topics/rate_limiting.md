@@ -25,6 +25,11 @@ Response endpoint and are measured over rolling time windows.
 
 If you exceed these limits, the API returns a `429 Too Many Requests` error, indicating that you must wait until the 
 limit resets or upgrade your plan.
+<warning>
+Even when you receive a 429 Too Many Requests error due to exceeding rate limits, the attempted request still counts 
+toward your usage quotas. Implementing a backoff strategy is essential to handle these errors gracefully and avoid 
+unnecessary charges.
+</warning>
 
 ## Dynamic Adjustments
 
